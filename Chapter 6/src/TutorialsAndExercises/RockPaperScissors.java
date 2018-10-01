@@ -1,4 +1,4 @@
-package Tutorials;
+package TutorialsAndExercises;
 
 import javax.swing.JOptionPane;
 

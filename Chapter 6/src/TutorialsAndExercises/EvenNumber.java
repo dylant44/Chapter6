@@ -19,7 +19,7 @@ public class EvenNumber {
 			}
 			else
 				System.out.println("ERROR");
-				
+		
 		}
 		
 		
